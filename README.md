@@ -36,8 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeSouza6k&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSouza6k&theme=tokyonight" alt="GitHub Streak" />
-</p>
-  <img 
+    <img 
     align="left" 
     alt="GitHub Stats" 
     height="200"
@@ -45,7 +44,9 @@
     style="margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSouza6k&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-<br>
+</p>
+
+
 
   
 ---
