@@ -36,11 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeSouza6k&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeSouza6k&theme=tokyonight" alt="GitHub Streak" />
-</p>s
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSouza6k&layout=compact&theme=tokyonight)
-
-
+</p>
 ---
 
 ## 🌐 Vamos conectar?
