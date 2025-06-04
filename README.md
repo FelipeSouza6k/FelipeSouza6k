@@ -45,6 +45,9 @@
     style="margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSouza6k&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+<br>
+
+  
 ---
 
 ## 🌐 Vamos conectar?
