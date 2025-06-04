@@ -27,6 +27,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200"
+    width=auto
+    style="margin-bottom: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSouza6k&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </p>
 
 ---
