@@ -1,8 +1,7 @@
 
-<h1 align="center">Olá, eu sou o Felipe Rodrigues de Souza! 👋</h1>
+<h1 align="center">Olá, Bem vindo ao meu GitHub! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Estudante+de+tecnologia;Explorando+o+universo+dev;Criando+com+prop%C3%B3sito;Bem-vindo+ao+meu+GitHub!+🚀" alt="Typing SVG" />
 </p>
 
 ---
